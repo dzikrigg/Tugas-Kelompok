@@ -1,10 +1,10 @@
 Job Desc DASHBOARD COVID-19 Kelompok 8
 
 M. Dzikri Hisyam Ilyasa (18051204023)
-==> Full Stack(Front End, Back End 50%)
+==> Full Stack(Front End, Back End)
 
 Martha Yogi Yudha Rifendi (18051204016)
-==> Ide, Chart, Database, Back End 50%
+==> Ide, Chart, Database
 
 Nabila Risa S. (18051204030)
 ==> Desain, Tampilan
